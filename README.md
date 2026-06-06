@@ -27,3 +27,4 @@
 ### Added Fly Speed And Change How Fly Works
 ### Fixed Teleports
 ### Fixed Some Lemon Stands Not Working On Auto Income And Auto Upgrade
+### Added Ping Counter And FPS Counter
